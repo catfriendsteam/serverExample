@@ -1,6 +1,6 @@
-package dw.study.serverex.repository;
+package com.wtw.catfriendsServer.repository;
 
-import dw.study.serverex.domain.User;
+import com.wtw.catfriendsServer.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

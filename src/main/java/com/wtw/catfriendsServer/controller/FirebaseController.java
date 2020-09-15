@@ -1,4 +1,4 @@
-package dw.study.serverex.controller;
+package com.wtw.catfriendsServer.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.RequestMapping;

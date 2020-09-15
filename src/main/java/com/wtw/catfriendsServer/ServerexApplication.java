@@ -1,4 +1,4 @@
-package dw.study.serverex;
+package com.wtw.catfriendsServer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

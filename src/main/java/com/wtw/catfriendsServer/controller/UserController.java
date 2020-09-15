@@ -1,6 +1,6 @@
-package dw.study.serverex.controller;
+package com.wtw.catfriendsServer.controller;
 
-import dw.study.serverex.service.UserService;
+import com.wtw.catfriendsServer.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

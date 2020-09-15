@@ -1,8 +1,8 @@
-package dw.study.serverex.service;
+package com.wtw.catfriendsServer.service;
 
-import dw.study.serverex.domain.Type;
-import dw.study.serverex.domain.User;
-import dw.study.serverex.repository.UserRepository;
+import com.wtw.catfriendsServer.domain.Type;
+import com.wtw.catfriendsServer.domain.User;
+import com.wtw.catfriendsServer.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

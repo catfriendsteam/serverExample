@@ -1,4 +1,4 @@
-package dw.study.serverex.domain;
+package com.wtw.catfriendsServer.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

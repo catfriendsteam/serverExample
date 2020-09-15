@@ -1,4 +1,4 @@
-package dw.study.serverex.firebase;
+package com.wtw.catfriendsServer.firebase;
 
 import com.google.auth.oauth2.GoogleCredentials;
 import com.google.firebase.FirebaseApp;

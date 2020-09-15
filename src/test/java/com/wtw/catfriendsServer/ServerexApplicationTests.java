@@ -1,4 +1,4 @@
-package dw.study.serverex;
+package com.wtw.catfriendsServer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

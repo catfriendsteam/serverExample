@@ -1,4 +1,4 @@
-package dw.study.serverex.firebase.fcm;
+package com.wtw.catfriendsServer.firebase.fcm;
 
 import com.google.firebase.messaging.*;
 import org.slf4j.Logger;

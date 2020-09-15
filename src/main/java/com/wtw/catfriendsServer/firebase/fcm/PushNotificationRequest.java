@@ -1,4 +1,4 @@
-package dw.study.serverex.firebase.fcm;
+package com.wtw.catfriendsServer.firebase.fcm;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
